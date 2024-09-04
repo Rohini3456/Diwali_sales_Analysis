@@ -12,4 +12,4 @@ categorious and products, which can help to plan
 inventory and hence meet the demands. 
 
 ### Project Over View
-![Screenshot 2024-09-04 185029](https://github.com/user-attachments/assets/341a8a19-bad4-4480-9786-9a6ca68c64d1)
+![Screenshot 2024-09-04 191640](https://github.com/user-attachments/assets/94c1aa84-7ed5-407f-bf77-f992b1e96e01)
